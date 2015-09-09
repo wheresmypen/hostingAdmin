@@ -1,0 +1,35 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.closed {
+
+    border: solid 1px red;
+    margin: 5px;
+    width: 500px;
+    display: none;
+
+
+}
+
+.closed div {
+    margin: 15px;
+}
+
+table td {
+    border: solid;
+    margin: 5px;
+}
+
+tr {
+	height: 45px;
+}
+
+#add {
+	margin-top: 45px;
+}
